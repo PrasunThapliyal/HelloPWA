@@ -26,6 +26,7 @@ namespace HelloPWA
 
             app.UseAuthorization();
 
+            app.UseStaticFiles();
 
             app.MapControllers();
 

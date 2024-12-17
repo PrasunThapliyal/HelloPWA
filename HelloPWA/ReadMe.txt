@@ -9,6 +9,7 @@ We'll use Dotnet Core 6 WebAPI project with Static File serving HTML
 ---------------------------------
 Create skeleton WebAPI project
 ---------------------------------
+Simplest PWA working - To access on mobile, use Dev Tunnels
 ---------------------------------
 ---------------------------------
 ---------------------------------
